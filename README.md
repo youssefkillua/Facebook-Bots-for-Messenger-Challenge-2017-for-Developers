@@ -9,3 +9,4 @@ If you are a developer in Africa or the Middle-East, Facebook has extended a cha
 A lot of my classmate tell me that I know more information about certifications and challenges , So in order to help everyone not only them . I had the idea to create Build yourself , witch is a chatbot that connect IT student to data that mean cours , certifications and challenges , it help them to achieve their dreams . As I said life is too short so take the chance and create your destiny and follow your dream.
 
 Check the video 
+https://www.linkedin.com/posts/youssef-khaoulaj_engineer-africa-chatgpt-activity-7024301991447142400-hBdX/?utm_source=share&utm_medium=member_desktop
